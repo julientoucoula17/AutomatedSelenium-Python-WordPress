@@ -1,2 +1,2 @@
-#Automated Selenium with Python on WordPress
+#AutomatedSelenium-Python-WordPress
 This code uses selenium for web browser automation.
