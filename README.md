@@ -36,7 +36,7 @@ For more information, [see](http://selenium-python.readthedocs.io/installation.h
 
 ### Application
 
-<b> I used it  for internships for add users or articles on wordpress and other things </b>
+<b> I used it  for internships for add users who were in a spreadsheet or articles on wordpress and other things </b>
 
 ### Execution
 To run the code, type `python Automated_Form.py`
