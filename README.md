@@ -13,9 +13,9 @@ ex: pip install selenium
 ```
 ### Description
 
-Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
+Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. 🌐 Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
 
-Selenium Python bindings provide a convenient API to access Selenium WebDrivers like Firefox, Ie, Chrome, Remote etc. The current supported Python versions are 2.7, 3.5 and above.
+Selenium Python bindings provide a convenient API to access Selenium WebDrivers like Firefox, Ie, Chrome, Remote etc. The current supported Python versions are 2.7, 3.5 and above. 💫
 
 ### Drivers
 Selenium requires a driver to interface with the chosen browser. Firefox, for example, requires geckodriver, which needs to be installed before the below examples can be run. Make sure it’s in your PATH, e. g., place it in /usr/bin or /usr/local/bin.
