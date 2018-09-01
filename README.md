@@ -1,10 +1,10 @@
 # Automated Selenium with Python on WordPress [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/julientoucoula17/AutomatedSelenium-Python-WordPress/blob/master/LICENSE) [![](https://img.shields.io/badge/Toucoula-Julien-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/julien-t-870b7613a)
 
-This code uses selenium for web browser automation.
+This code uses selenium for web browser automation and a module of Python who extract the data.
 
 ### Code Requirements
 The example code is in Python ([version 3.6](https://www.python.org/downloads/release/python-362/) or higher will work). 
-1) import selenium
+1) import selenium (For more information, [see](https://selenium-python.readthedocs.io/installation.html#introduction))
 2) import time
 3) import xlrd ([module is used to extract data from a spreadsheet](https://www.geeksforgeeks.org/reading-excel-file-using-python/))
 
@@ -29,7 +29,6 @@ Other supported browsers will have their own drivers available. Links to some of
 3) Edge: 	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
 4) Safari: 	https://webkit.org/blog/6900/webdriver-support-in-safari-10
 
-For more information, [see](http://selenium-python.readthedocs.io/installation.html#introduction)
 
 <img src="Automated-Selenium.gif">
 
