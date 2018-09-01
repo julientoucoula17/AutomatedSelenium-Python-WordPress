@@ -6,9 +6,10 @@ This code uses selenium for web browser automation.
 The example code is in Python ([version 3.6](https://www.python.org/downloads/release/python-362/) or higher will work). 
 1) import selenium
 2) import time
+3) import xlrd ([module is used to extract data from a spreadsheet](https://www.geeksforgeeks.org/reading-excel-file-using-python/))
 
 ```
-pip install selenium
+ex: pip install selenium
 ```
 ### Description
 
