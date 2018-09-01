@@ -38,7 +38,7 @@ Other supported browsers will have their own drivers available. Links to some of
 <b> I used it  for internships for add users who were in a spreadsheet or articles on wordpress and other things. 😎 </b>
 
 ### Execution
-To run the code, type `python Automated_Form.py`
+To run the code, type `python Automated_Add_User.py`
 
 ```
 python Automated_Add_User.py
