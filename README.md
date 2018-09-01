@@ -30,8 +30,8 @@ Other supported browsers will have their own drivers available. Links to some of
 
 For more information, [see](http://selenium-python.readthedocs.io/installation.html#introduction)
 
-<img src="#">
-<video controls src="Automated-Selenium.mp4">Demo</video>
+<img src="Automated-Selenium.gif">
+
 
 ### Application
 
