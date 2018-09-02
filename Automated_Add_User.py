@@ -6,12 +6,14 @@ import xlrd
 
 
 
-########## WORDPRESS ##########
-Login =
-Password =
-###############################
+####################################### WORDPRESS ################################################################
+website = eval('input("Enter your wordpress site(ex: www.google.com)   :  ")')+"/wp-admin/user-new.php?user_id=40"
+Login = eval('input("Enter your username: ")')
+Password = eval('input("Enter your Password: ")')
+###################################################################################################################
 
-loc = ("C:/Users/tijul/AppData/Local/Programs/Python/Python36-32/user.xlsx")
+loc = eval('input("Enter the path of the spreadsheet: ")')
+#loc = ("C:/Users/tijul/AppData/Local/Programs/Python/Python36-32/user.xlsx")
  
 wb = xlrd.open_workbook(loc)
 sheet = wb.sheet_by_index(0)
@@ -23,7 +25,7 @@ number_row = sheet.nrows
 
 
 driver = webdriver.Firefox()
-driver.get("<URL>/wp-admin/user-new.php?user_id=40") #Change the address of the site
+driver.get(website) 
 
 user=driver.find_element_by_xpath("""//*[@id="user_login"]""")
 user.send_keys(Login)
